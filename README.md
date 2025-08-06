@@ -150,18 +150,6 @@ src/
 - **Görsel Analiz Performansı**: Başarılı görsel analiz oranları
 - **Rate Limit Koruması**: API limitine yaklaşma sıklığı
 
-## 🎨 Stil ve Tasarım
-
-### Tasarım Sistemi
-- **Renk Paleti**: Modern e-ticaret teması
-- **Typography**: Okunabilir ve profesyonel fontlar
-- **Iconlar**: Lucide React icon seti
-- **Animasyonlar**: Framer Motion ile smooth geçişler
-
-### Responsive Tasarım
-- **Mobile-First**: Mobil cihazlar öncelikli
-- **Tablet Optimizasyonu**: Orta ekran boyutları için uyarlanmış
-- **Desktop**: Geniş ekranlar için optimize edilmiş layout
 
 ## 🚀 Deployment
 
@@ -227,65 +215,13 @@ npm run format       # Prettier formatlama
 - **API Key Protection**: Güvenli anahtar yönetimi ve şifreleme
 - **Request Validation**: AI isteklerinin doğrulanması ve filtrelenmesi
 
-## 📱 Mobil Deneyim
 
-### Mobile-First Tasarım
-- **Touch-Friendly**: Dokunmatik arayüz optimizasyonu
-- **Fast Loading**: Mobil ağlarda hızlı yükleme
-- **Offline Support**: Temel özellikler offline çalışır
-- **PWA Ready**: Progressive Web App desteği
 
-### Mobil Özellikler
-- **Bottom Navigation**: Mobil navigasyon menüsü
-- **Swipe Gestures**: Kaydırma hareketleri
-- **Image Optimization**: Mobil için optimizasyon
-- **Touch Interactions**: Dokunma animasyonları
-
-## 🎯 Gelecek Özellikler
-
-### Planlanan Özellikler
-- 🗣️ **Sesli Arama**: Ses komutları ile ürün arama
-- 🎯 **Kişiselleştirilmiş AI**: Kullanıcı davranışı bazlı öneriler  
-- 💬 **AI Chat Bot**: Gerçek zamanlı alışveriş asistanı
-- 📈 **A/B Testing**: AI özelliklerinin test edilmesi
-- 🔄 **Real-time Sync**: Gerçek zamanlı AI cache senkronizasyonu
-
-### Entegrasyon Planları
-- **Payment Gateways**: İyzico, PayTR entegrasyonu
-- **Cargo APIs**: Kargo firması entegrasyonları
-- **Analytics**: Google Analytics, Facebook Pixel
-- **Social Login**: Google, Facebook girişi
-
-## 🤝 Katkıda Bulunma
-
-1. Projeyi fork edin
-2. Feature branch oluşturun (`git checkout -b feature/YeniOzellik`)
-3. Değişikliklerinizi commit edin (`git commit -m 'Yeni özellik eklendi'`)
-4. Branch'i push edin (`git push origin feature/YeniOzellik`)
-5. Pull Request oluşturun
 
 ## 📄 Lisans
 
 Bu proje MIT Lisansı ile lisanslanmıştır - detaylar için LICENSE dosyasına bakın.
 
-## 🙏 Teşekkürler
-
-- Google Gemini AI - Güçlü AI yetenekleri için
-- React Team - Mükemmel framework için
-- Tailwind CSS - Utility-first CSS framework için
-- Framer Motion - Smooth animasyonlar için
-- Açık kaynak topluluğu - İlham için
-
-## 🆘 Destek
-
-Sorun yaşıyorsanız veya yardıma ihtiyacınız varsa:
-1. Dokümantasyonu kontrol edin
-2. Mevcut issue'ları arayın
-3. Detaylı bilgi ile yeni issue oluşturun
-4. Topluluk tartışmalarına katılın
-
 ---
 
-**AI E-Ticaret ile Geleceğin Alışveriş Deneyimini Yaşayın!** 🛒✨
-
-Türkiye'nin en akıllı e-ticaret platformu ❤️ ile geliştirildi
+**ShopSmart ile Akıllı Alışverişin Yeni Adresi!**
